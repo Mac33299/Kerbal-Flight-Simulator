@@ -1,5 +1,6 @@
 # Kerbal-Flight-Simulator
 ![KFS 1 1 Thumnail png version](https://github.com/Mac33299/Kerbal-Flight-Simulator/assets/110599229/d7a90563-eb2e-4ef1-a9df-0083783cb9d9)
+https://www.youtube.com/watch?v=SZv2vMKn62c
 
 Aims to Add KSP parts into SFS
 
