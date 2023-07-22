@@ -10,7 +10,7 @@ Build Settings:https://jmnet.one/sfs/forum/index.php?threads/build-settings.1019
 
 
 
-  how to install:
+### how to install:
   
 1: download the '.pack' file from releases
 
