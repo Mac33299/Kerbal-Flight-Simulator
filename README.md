@@ -9,7 +9,7 @@ PartEditor:https://jmnet.one/sfs/forum/index.php?threads/parteditor-mod.9624/
 
 Build Settings:https://jmnet.one/sfs/forum/index.php?threads/build-settings.10198/
 
-**now supports N2O1 Electricty Pack**
+**1.1.0.1 or newer now supports N2O1 Electricty Pack**
 
 https://jmnet.one/sfs/forum/index.php?threads/electricity-part-pack.9709/
 
